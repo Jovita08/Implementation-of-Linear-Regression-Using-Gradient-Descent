@@ -21,12 +21,8 @@ To write a program to implement the linear regression using gradient descent.
 
 Program to implement the linear regression using gradient descent.
 Developed by: VIRGIL JOVITA.A
-RegisterNumber:  21222124062
+RegisterNumber:  212221240062
 
-
-Program to implement the linear regression using gradient descent.
-Developed by: EZHIL MATHI.R
-RegisterNumber: 212221230026  
 
 import numpy as np
 import pandas as pd
